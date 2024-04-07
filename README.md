@@ -2,7 +2,7 @@
 
 ### Wish someone special happy birthday in a special way.
 
-#### [See it Live]([https://zyxciel.github.io/happy-birthday-24/)
+#### [See it Live](https://zyxciel.github.io/happy-birthday-24/)
 
 #### Update: Now you can customize all the texts without modifying the code!
 
